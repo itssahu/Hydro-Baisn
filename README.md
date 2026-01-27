@@ -34,6 +34,9 @@ Figure. Bio-physical flood susceptibility (total wetness) of wastewater faciliti
 Figure. Socio-economic exposure of wastewater facilities in the Musi sub-basin, combining population exposure and facility service criticality. High exposure values are spatially concentrated around a limited set of system-critical assets serving dense populations, while peripheral facilities exhibit low exposure despite physical presence. Symbol size represents normalized population exposure, shown separately to distinguish societal dependency from infrastructure importance.
 
 <img width="1020" height="678" alt="image" src="https://github.com/user-attachments/assets/d24fb621-8933-4bab-9b19-c445ef078214" />
+
+Figure. Adaptive capacity of wastewater facilities in the Musi sub-basin, representing relative coping and recovery potential derived from institutional strength, physical robustness, accessibility, and population pressure. While some facilities exhibit high adaptive capacity, several high-exposure assets along the Musi corridor show limited coping potential, highlighting spatial mismatches between societal dependence and resilience. Symbol size denotes population exposure.
+
 <img width="1552" height="841" alt="image" src="https://github.com/user-attachments/assets/1f27b3b7-74c6-4856-b807-0fbff23bf82a" />
 Figure X. VAE-Amplified Extreme Flood Tail Risk versus Composite Climate Risk for Urban Wastewater Infrastructure in the Musi Sub-Basin (Hyderabad, India).
 
