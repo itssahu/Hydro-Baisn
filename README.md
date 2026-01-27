@@ -5,7 +5,7 @@ Musi River Sub-Basin, Hyderabad, India
 <img width="1451" height="1183" alt="image" src="https://github.com/user-attachments/assets/1049f97e-b0ca-42a9-9c2e-c00225c679d7" />
 
 Figure . Basin-scale hydro-terrain, exposure, and wastewater infrastructure context for the Musi sub-basin.
-Elevation and slope maps show a low-relief floodplain aligned with the Musi River, indicating areas prone to flood accumulation and slow drainage. The river network highlights strong drainage convergence through the Hyderabad urban corridor. Population exposure is highly concentrated in this zone. Wastewater facilities—including treatment plants, landfills, and transfer stations (shown with different symbols)—are located along these flood-prone and high-exposure areas. This static basin-scale context defines the physical and socio-economic setting used to condition all subsequent flood hazard, loss, and tail-risk modeling.
+Elevation and slope maps show a low-relief floodplain aligned with the Musi River, indicating areas prone to flood accumulation and slow drainage. The river network highlights strong drainage convergence through the Hyderabad urban corridor. Population exposure is highly concentrated in this zone. Wastewater facilities, including treatment plants, landfills, and transfer stations (shown with different symbols) are located along these flood-prone and high-exposure areas. This static basin-scale context defines the physical and socio-economic setting used to condition all subsequent flood hazard, loss, and tail-risk modeling.
 
 <img width="1020" height="678" alt="image" src="https://github.com/user-attachments/assets/40f0a3e3-cb6e-45cb-8047-b753aece109f" />
 
