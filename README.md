@@ -95,4 +95,4 @@ which are relatively stable under current hazard and exposure conditions.
 
 Crucially, these categories imply different intervention strategies. Capital-intensive flood mitigation investments and risk transfer mechanisms (e.g., insurance or reinsurance) are most suitable for assets dominated by extreme tail losses, whereas systemically vulnerable facilities benefit more from governance improvements, redundancy planning, and targeted enhancement of adaptive capacity. The framework therefore moves beyond generic “high-risk” labels and supports actionable, asset-specific decision pathways.
 
-This framework enables asset-specific prioritization by explicitly separating extreme financial tail risk from long-term systemic climate vulnerability, providing a unified yet decision-targeted view of climate risk.
+
