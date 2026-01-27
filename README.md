@@ -20,4 +20,12 @@ The left panel shows facility-level extreme flood tail losses (EP < 2%) derived 
 
 Results reveal a systematic spatial divergence between assets dominating probabilistic financial tail risk and those driving composite climate vulnerability, underscoring the necessity of jointly modeling extreme loss behavior and socio-environmental resilience when assessing climate risk to urban infrastructure.
 
+## Implications for Infrastructure Risk Assessment
+The comparison between extreme flood tail risk and composite climate risk highlights the necessity of multi-objective prioritization. Facilities can be broadly categorized into four functional risk classes:
+Financially critical assets, which dominate tail losses and drive capital stress.
+Systemically critical assets, which pose high societal and service disruption risk despite moderate financial losses.
+Dual-risk assets, which score highly on both dimensions and represent “do-not-fail” infrastructure.
+Low-priority assets, which are relatively stable under current hazard and exposure conditions.
+Crucially, these categories imply different intervention strategies. Structural flood defenses and insurance mechanisms may be appropriate for tail-loss-dominant assets, whereas governance reforms, redundancy planning, and adaptive capacity enhancement are more effective for systemically vulnerable facilities. The framework therefore moves beyond generic “high-risk” labels and supports actionable, asset-specific decision pathways.
+
 This framework enables asset-specific prioritization by explicitly separating extreme financial tail risk from long-term systemic climate vulnerability, providing a unified yet decision-targeted view of climate risk.
