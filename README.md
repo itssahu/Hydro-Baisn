@@ -11,6 +11,9 @@ The EVT-only curve is defined by a small number of return levels and spans a lim
 Monte Carlo improves convergence of EVT-based loss aggregation but remains confined to the parametric tail learned from limited extremes. VAE-based tail amplification introduces a learned latent representation of extreme loss structure, enabling controlled exploration of rare, compound tail realizations beyond EVT support. This results in divergence only at the lowest exceedance probabilities, where tail uncertainty, not mean behavior, dominates risk, making the VAE essential for credible extreme tail risk estimation.
 
 <img width="1017" height="675" alt="image" src="https://github.com/user-attachments/assets/2e7b69db-50f9-4a67-8835-d533c730f0fe" />
+
+Figure. Facility-level incremental flood tail loss uplift introduced by VAE-based tail enrichment relative to Monte Carlo simulation. VAE amplification is spatially concentrated along the Musi river corridor, indicating that deep generative modeling captures rare, spatially correlated extreme flood configurations that are not fully represented by stochastic Monte Carlo aggregation.
+
 <img width="890" height="590" alt="image" src="https://github.com/user-attachments/assets/8433b1e3-e331-4a2a-9934-3d26363c346c" />
 <img width="1033" height="675" alt="image" src="https://github.com/user-attachments/assets/0dd87593-e65f-4fb4-903e-22b179d3a749" />
 <img width="1042" height="675" alt="image" src="https://github.com/user-attachments/assets/dfc4e270-06a7-4897-acaa-65d104dabb0b" />
