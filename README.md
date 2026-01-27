@@ -19,6 +19,23 @@ Figure. Socio-economic exposure of wastewater facilities in the Musi sub-basin, 
 
 Figure. Adaptive capacity of wastewater facilities in the Musi sub-basin, representing relative coping and recovery potential derived from institutional strength, physical robustness, accessibility, and population pressure. While some facilities exhibit high adaptive capacity, several high-exposure assets along the Musi corridor show limited coping potential, highlighting spatial mismatches between societal dependence and resilience. Symbol size denotes population exposure.
 
+<img width="1500" height="995" alt="image" src="https://github.com/user-attachments/assets/70a57cd6-2c7e-43d8-97a2-240dd73504c1" />
+
+Figure. Composite Climate Risk Index of wastewater infrastructure in the Musi sub-basin. Point color represents the integrated risk metric defined as Hazard × Exposure × (1 − Adaptive Capacity), while symbol size denotes population exposure. High-risk facilities cluster along the Musi River flood corridor, where terrain-driven flood susceptibility coincides with dense population exposure and limited adaptive capacity, highlighting priority assets for resilience and risk mitigation.
+
+### Key Insights from the Composite Climate Risk Map
+
+#### Risk concentrates along the Musi River corridor
+Facilities located directly on or immediately adjacent to the Musi River exhibit the highest composite climate risk, reflecting the compounding effect of flood susceptibility and exposure despite varying adaptive capacities.
+
+#### High risk is not driven by hazard alone
+Several facilities with moderate flood susceptibility still emerge as high-risk because population exposure and service criticality amplify consequences, confirming that composite risk is a socio-physical construct, not purely hydrological.
+
+#### Adaptive capacity meaningfully differentiates assets
+Facilities in similar hydro-terrain settings show markedly different risk levels, indicating that adaptive capacity acts as a dampening factor, preventing some high-hazard locations from becoming critical-risk assets.
+
+#### Large-population assets dominate risk prioritization
+Larger symbols (high population exposure) that also show elevated composite risk identify systemically important infrastructure, where failure would propagate impacts well beyond the facility footprint.
 
 <img width="890" height="590" alt="image" src="https://github.com/user-attachments/assets/748890cc-261e-4296-93b5-5d6db82b3d32" />
 Figure. Annual Exceedance Probability (EP) curves for flood-induced losses in the Musi Basin derived from EVT-only return levels (black), Monte Carlo catastrophe simulation (red), and EVT with VAE-based tail amplification (blue).
@@ -53,14 +70,18 @@ The comparison between extreme flood tail risk and composite climate risk highli
 
 Facilities can be broadly categorized into four functional risk classes:
 
-Financially critical assets, which dominate tail losses and drive capital stress.
+#### Financially critical assets
+which dominate tail losses and drive capital stress.
 
-Systemically critical assets, which pose high societal and service disruption risk despite moderate financial losses.
+#### Systemically critical assets
+which pose high societal and service disruption risk despite moderate financial losses.
 
-Dual-risk assets, which score highly on both dimensions and represent “do-not-fail” infrastructure.
+#### Dual-risk assets
+which score highly on both dimensions and represent “do-not-fail” infrastructure.
 
-Low-priority assets, which are relatively stable under current hazard and exposure conditions.
+#### Low-priority assets 
+which are relatively stable under current hazard and exposure conditions.
 
-Crucially, these categories imply different intervention strategies. Structural flood defenses and insurance mechanisms may be appropriate for tail-loss-dominant assets, whereas governance reforms, redundancy planning, and adaptive capacity enhancement are more effective for systemically vulnerable facilities. The framework therefore moves beyond generic “high-risk” labels and supports actionable, asset-specific decision pathways.
+Crucially, these categories imply different intervention strategies. Capital-intensive flood mitigation investments and risk transfer mechanisms (e.g., insurance or reinsurance) are most suitable for assets dominated by extreme tail losses, whereas systemically vulnerable facilities benefit more from governance improvements, redundancy planning, and targeted enhancement of adaptive capacity. The framework therefore moves beyond generic “high-risk” labels and supports actionable, asset-specific decision pathways.
 
 This framework enables asset-specific prioritization by explicitly separating extreme financial tail risk from long-term systemic climate vulnerability, providing a unified yet decision-targeted view of climate risk.
