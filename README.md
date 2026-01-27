@@ -30,6 +30,9 @@ Figure. Facility-level climate-conditioned flood tail loss uplift under moderate
 Figure. Bio-physical flood susceptibility (total wetness) of wastewater facilities in the Musi sub-basin, derived from a weighted combination of drainage proximity, elevation percentile, and slope percentile. High susceptibility clusters along the Musi river and low-lying floodplain zones, highlighting terrain-controlled flood accumulation potential independent of event magnitude. Symbol size denotes population exposure, shown separately to preserve a clear distinction between physical hazard propensity and downstream impact.
 
 <img width="1020" height="678" alt="image" src="https://github.com/user-attachments/assets/55537070-b2ce-4393-bfce-1c3e9e5d690b" />
+
+Figure. Socio-economic exposure of wastewater facilities in the Musi sub-basin, combining population exposure and facility service criticality. High exposure values are spatially concentrated around a limited set of system-critical assets serving dense populations, while peripheral facilities exhibit low exposure despite physical presence. Symbol size represents normalized population exposure, shown separately to distinguish societal dependency from infrastructure importance.
+
 <img width="1020" height="678" alt="image" src="https://github.com/user-attachments/assets/d24fb621-8933-4bab-9b19-c445ef078214" />
 <img width="1552" height="841" alt="image" src="https://github.com/user-attachments/assets/1f27b3b7-74c6-4856-b807-0fbff23bf82a" />
 Figure X. VAE-Amplified Extreme Flood Tail Risk versus Composite Climate Risk for Urban Wastewater Infrastructure in the Musi Sub-Basin (Hyderabad, India).
