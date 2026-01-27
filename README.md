@@ -4,6 +4,19 @@ Musi River Sub-Basin, Hyderabad, India
 
 <img width="1451" height="1183" alt="image" src="https://github.com/user-attachments/assets/1049f97e-b0ca-42a9-9c2e-c00225c679d7" />
 
+<img width="1020" height="678" alt="image" src="https://github.com/user-attachments/assets/40f0a3e3-cb6e-45cb-8047-b753aece109f" />
+
+Figure. Bio-physical flood susceptibility (total wetness) of wastewater facilities in the Musi sub-basin, derived from a weighted combination of drainage proximity, elevation percentile, and slope percentile. High susceptibility clusters along the Musi river and low-lying floodplain zones, highlighting terrain-controlled flood accumulation potential independent of event magnitude. Symbol size denotes population exposure, shown separately to preserve a clear distinction between physical hazard propensity and downstream impact.
+
+<img width="1020" height="678" alt="image" src="https://github.com/user-attachments/assets/55537070-b2ce-4393-bfce-1c3e9e5d690b" />
+
+Figure. Socio-economic exposure of wastewater facilities in the Musi sub-basin, combining population exposure and facility service criticality. High exposure values are spatially concentrated around a limited set of system-critical assets serving dense populations, while peripheral facilities exhibit low exposure despite physical presence. Symbol size represents normalized population exposure, shown separately to distinguish societal dependency from infrastructure importance.
+
+<img width="1020" height="678" alt="image" src="https://github.com/user-attachments/assets/d24fb621-8933-4bab-9b19-c445ef078214" />
+
+Figure. Adaptive capacity of wastewater facilities in the Musi sub-basin, representing relative coping and recovery potential derived from institutional strength, physical robustness, accessibility, and population pressure. While some facilities exhibit high adaptive capacity, several high-exposure assets along the Musi corridor show limited coping potential, highlighting spatial mismatches between societal dependence and resilience. Symbol size denotes population exposure.
+
+
 <img width="890" height="590" alt="image" src="https://github.com/user-attachments/assets/748890cc-261e-4296-93b5-5d6db82b3d32" />
 Figure. Annual Exceedance Probability (EP) curves for flood-induced losses in the Musi Basin derived from EVT-only return levels (black), Monte Carlo catastrophe simulation (red), and EVT with VAE-based tail amplification (blue).
 The EVT-only curve is defined by a small number of return levels and spans a limited loss range, representing single-event severity without annual loss aggregation; it lies above the simulated curves and does not resolve the extreme low-probability tail. Monte Carlo simulation extends EVT into a full annual loss distribution by sampling event frequency over 10,000 synthetic years, producing a smoother EP curve and substantially higher loss estimates at low exceedance probabilities. However, the Monte Carlo tail remains constrained by the parametric EVT structure used to generate extreme rainfall. The VAE-amplified curve departs from the Monte Carlo curve only in the lowest EP region (EP < 10⁻³), where losses increase further, indicating heavier and more variable tail behavior. This separation shows that deep generative tail sampling does not alter typical or moderate risk but materially affects rare, high-consequence losses that dominate capital adequacy, stress testing, and reinsurance attachment decisions.
@@ -24,18 +37,6 @@ These results show that climate stress manifests primarily through amplification
 <img width="1042" height="675" alt="image" src="https://github.com/user-attachments/assets/dfc4e270-06a7-4897-acaa-65d104dabb0b" />
 
 Figure. Facility-level climate-conditioned flood tail loss uplift under moderate (S1, +10%) and severe (S2, +25%) loss stress scenarios for a 100-year flood event. While the spatial pattern of tail-sensitive facilities remains consistent, S2 produces non-linear amplification in a subset of assets, indicating that climate stress primarily intensifies extreme loss severity rather than uniformly increasing risk. This highlights that climate-driven vulnerability is concentrated in structurally tail-sensitive facilities, which dominate portfolio losses under severe stress.
-
-<img width="1020" height="678" alt="image" src="https://github.com/user-attachments/assets/40f0a3e3-cb6e-45cb-8047-b753aece109f" />
-
-Figure. Bio-physical flood susceptibility (total wetness) of wastewater facilities in the Musi sub-basin, derived from a weighted combination of drainage proximity, elevation percentile, and slope percentile. High susceptibility clusters along the Musi river and low-lying floodplain zones, highlighting terrain-controlled flood accumulation potential independent of event magnitude. Symbol size denotes population exposure, shown separately to preserve a clear distinction between physical hazard propensity and downstream impact.
-
-<img width="1020" height="678" alt="image" src="https://github.com/user-attachments/assets/55537070-b2ce-4393-bfce-1c3e9e5d690b" />
-
-Figure. Socio-economic exposure of wastewater facilities in the Musi sub-basin, combining population exposure and facility service criticality. High exposure values are spatially concentrated around a limited set of system-critical assets serving dense populations, while peripheral facilities exhibit low exposure despite physical presence. Symbol size represents normalized population exposure, shown separately to distinguish societal dependency from infrastructure importance.
-
-<img width="1020" height="678" alt="image" src="https://github.com/user-attachments/assets/d24fb621-8933-4bab-9b19-c445ef078214" />
-
-Figure. Adaptive capacity of wastewater facilities in the Musi sub-basin, representing relative coping and recovery potential derived from institutional strength, physical robustness, accessibility, and population pressure. While some facilities exhibit high adaptive capacity, several high-exposure assets along the Musi corridor show limited coping potential, highlighting spatial mismatches between societal dependence and resilience. Symbol size denotes population exposure.
 
 <img width="1552" height="841" alt="image" src="https://github.com/user-attachments/assets/1f27b3b7-74c6-4856-b807-0fbff23bf82a" />
 Figure X. VAE-Amplified Extreme Flood Tail Risk versus Composite Climate Risk for Urban Wastewater Infrastructure in the Musi Sub-Basin (Hyderabad, India).
