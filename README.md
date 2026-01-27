@@ -14,4 +14,10 @@ Musi River Sub-Basin, Hyderabad, India
 <img width="1020" height="678" alt="image" src="https://github.com/user-attachments/assets/55537070-b2ce-4393-bfce-1c3e9e5d690b" />
 <img width="1020" height="678" alt="image" src="https://github.com/user-attachments/assets/d24fb621-8933-4bab-9b19-c445ef078214" />
 <img width="1552" height="841" alt="image" src="https://github.com/user-attachments/assets/1f27b3b7-74c6-4856-b807-0fbff23bf82a" />
+Figure X. VAE-Amplified Extreme Flood Tail Risk versus Composite Climate Risk for Urban Wastewater Infrastructure in the Musi Sub-Basin (Hyderabad, India).
 
+The left panel shows facility-level extreme flood tail losses (EP < 2%) derived from an EVT-conditioned Monte Carlo catastrophe model with VAE-based tail amplification, highlighting spatial concentration of rare but catastrophic financial risk. The right panel depicts a Composite Climate Risk Index integrating static flood hazard susceptibility, socio-economic exposure, and adaptive capacity, representing long-term systemic vulnerability. Symbol size indicates normalized population exposure.
+
+Results reveal a systematic spatial divergence between assets dominating probabilistic financial tail risk and those driving composite climate vulnerability, underscoring the necessity of jointly modeling extreme loss behavior and socio-environmental resilience when assessing climate risk to urban infrastructure.
+
+This framework enables asset-specific prioritization by explicitly separating extreme financial tail risk from long-term systemic climate vulnerability, providing a unified yet decision-targeted view of climate risk.
