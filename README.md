@@ -95,4 +95,44 @@ which are relatively stable under current hazard and exposure conditions.
 
 Crucially, these categories imply different intervention strategies. Capital-intensive flood mitigation investments and risk transfer mechanisms (e.g., insurance or reinsurance) are most suitable for assets dominated by extreme tail losses, whereas systemically vulnerable facilities benefit more from governance improvements, redundancy planning, and targeted enhancement of adaptive capacity. The framework therefore moves beyond generic “high-risk” labels and supports actionable, asset-specific decision pathways.
 
+## Applications
 
+#### Climate stress testing and capital adequacy
+Tail-sensitive loss modeling for regulatory stress tests, solvency assessment, and infrastructure financing.
+
+####  Reinsurance and risk transfer design
+Inform attachment points, tail layers, and parametric triggers using VAE-amplified extreme loss distributions.
+
+#### Urban resilience and adaptation planning
+Identify assets where governance reform, redundancy, or adaptive capacity investments outperform structural mitigation.
+
+#### Portfolio prioritization under climate uncertainty
+Support asset-level decision-making by separating financial tail risk from systemic climate vulnerability
+
+## Limitations 
+
+#### Latent tail learning is univariate
+The VAE models basin-mean rainfall tail behavior; spatial rainfall structure and storm morphology are not explicitly learned in latent space.
+
+#### Implicit climate conditioning
+Climate stress is represented via tail amplification rather than explicitly conditioning the generative model on physical climate drivers (e.g., SSTs, circulation indices).
+
+#### Limited epistemic uncertainty separation
+Parameter uncertainty (EVT, damage functions) and generative uncertainty (VAE latent sampling) are not fully disentangled.
+
+#### Climate stress representation
+Climate change is represented through controlled tail amplification rather than fully transient climate model projections, prioritizing stress-testing realism over long-term scenario forecasting.
+
+## Future Scope — Climate AI & Advanced Modeling
+
+#### Conditioned generative models for climate drivers
+Extend the VAE to a conditional VAE or diffusion model conditioned on large-scale climate variables (e.g., ENSO, monsoon indices, SST anomalies).
+
+#### Spatio-temporal generative rainfall modeling
+Replace basin-mean rainfall with spatio-temporal generative models (ConvVAE, latent diffusion) to capture storm structure and spatial dependence.
+
+#### Graph-based infrastructure risk propagation
+Incorporate graph neural networks to model cascading failures across interconnected wastewater and urban infrastructure networks.
+
+#### Joint hazard–loss generative modeling
+Develop end-to-end generative models that directly learn the distribution of annual losses, integrating hazard generation, exposure interaction, and damage response.
